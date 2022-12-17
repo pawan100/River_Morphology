@@ -8,3 +8,5 @@ for collection in LandsatSTAC.get_collections():
     print(collection)
 # functions
 # new
+#new
+#try
